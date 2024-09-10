@@ -8,7 +8,7 @@ padding: 20px;
 background-color: #505860;
 } 
 h1, h2  {
-    color: #fbfdff;
+    color: #6fbeef;
     text-align: center;
 
 }
@@ -47,4 +47,15 @@ a {
     background-color: #ee8710;
     border-radius: 10px;
     padding: 30px;
+}
+
+.destaque{
+    background-color: #b1ccf87f;
+    border-left: 8px solid #1e90ff;
+    border-radius: 5px;
+    padding: 15px;
+}
+p {
+color: #f6ede3;
+
 }
